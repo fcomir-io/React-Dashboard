@@ -1,3 +1,12 @@
+### Next
+- CSS de ModalWnd
+- Refactor ModalWnd
+- Cerrar ModalWnd para TestBench ==> ModalWnd_TestBench
+- Ampliar TestBenchesData mockup
+- Refactor testBench view using lo que diseñé
+
+- Signals....
+- Devices....
 ### Bitácora de vuelo
 
 https://coreui.io/react/
@@ -29,6 +38,14 @@ PENDING
 - Como trabajar con TheHeaderDropdownNotif en Header?
 - Como trabajar con TheHeaderDropdown en Header?
 - Ajustes en mixin varios... No sé como customizar el CSS
+
+- Test Bench view ==> Usar Advance Table ?!?
+
+- Location de Test Benches podría ser una lista hardcoded. Eso significa q se neceista una tabla en la base de datos
+- Scroll en MOdal para el Signal Selewctor
+- Podriblemente se necesiten grupos en Signals
+
+- Trabajr con Fork de CoeUI... Ver eimail del 12 de agosto
 --------------
 
 [![@coreui coreui](https://img.shields.io/badge/@coreui%20-coreui-lightgrey.svg?style=flat-square)](https://github.com/coreui/coreui)

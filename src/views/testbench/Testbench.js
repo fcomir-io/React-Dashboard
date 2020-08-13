@@ -9,13 +9,6 @@ import {
   CCardBody,
   CCardHeader,
   CCol,
-  CLink,
-  CProgress,
-  CModal,
-  CModalBody,
-  CModalFooter,
-  CModalHeader,
-  CModalTitle,
 } from "@coreui/react";
 import ModalWnd from "../../components/modalWnd/ModalWnd";
 
